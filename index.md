@@ -1,12 +1,12 @@
 
-![图片描述](./20210111001301.jpg)
+![图片描述](/1.jpg)
 ### Personal Information
-#### Name: Zhang Ning
+#### Name: Zhang Xinyue
 #### Gender: Female
-#### Email: 349972418@qq.com
+#### Email: xhangxinyue-929@outlook.com
 
 ### Career Objection
 #### Student
 
 ### Education
-#### 2020-2022 Tianjin Univesity 
+#### 2019-2021 Tianjin Univesity 
