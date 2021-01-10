@@ -1,5 +1,5 @@
 
-![图片描述](/20210111001301.jpg)
+![图片描述](./20210111001301.jpg)
 ### Personal Information
 #### Name: Zhang Ning
 #### Gender: Female
